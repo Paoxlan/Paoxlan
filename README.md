@@ -2,7 +2,7 @@
 
 <p>
   I'm Patrik, also known as Paoxlan online. A 20 year old developer that <b>loves</b> coding. I usually do back-end development.
-  <br/>
+
   Most of my contributions are private, hence there isn't much here.
 </p>
 
